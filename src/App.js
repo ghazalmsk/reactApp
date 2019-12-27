@@ -7,7 +7,7 @@ export default class App extends Component {
                 <div className="App">
                     <header className="App-header">
                     <h1 className="App-title">Welcome to my web store</h1>
-                    <h2>hellooo</h2>
+                    <h2>edit react app</h2>
                     </header>
                 </div>
             </>
